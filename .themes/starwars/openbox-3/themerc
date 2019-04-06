@@ -1,0 +1,85 @@
+!! menu title
+menu.title.bg: raised gradient vertical
+menu.title.bg.color:  #0c1d27
+menu.title.bg.colorTo: #0c1d27
+
+menu.title.text.color:#00CCFF
+menu.title.text.justify: left
+
+!! menu items
+menu.items.bg: flat solid
+menu.items.bg.color:#0c1d27
+menu.bg.border.color:#0c1d27
+menu.items.text.color:#FF5764
+menu.items.justify: left
+menu.items.disabled.text.color: #bebebe
+menu.items.active.bg: flat solid
+menu.items.active.bg.color:#0F232F
+menu.items.active.bg.colorTo: #0F232F
+menu.items.active.text.color: #0090B4
+menu.items.active.bg.border.color: #b9bec6
+
+!! window title
+window.active.title.bg: flat solid
+window.active.title.bg.color: #0c1d27
+window.active.title.bg.colorTo: #0D1F28
+window.active.title.separator.color: #0c1d27
+
+window.inactive.title.bg: flat solid
+window.inactive.title.bg.color:  #0c1d27
+window.inactive.title.bg.colorTo:  #0D1F28
+window.inactive.title.separator.color: #0c1d27
+
+!! window text
+window.label.text.justify: center
+window.active.label.bg: parentrelative
+window.active.label.bg.color: #FF5764
+window.active.label.bg.colorTo: #FF5764
+window.active.label.text.color: #0090B4
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #FF5764
+
+!! window borders etc
+window.active.client.color: #ffffff
+window.inactive.client.color: #e0e0e0
+
+window.active.handle.bg:flat solid
+window.active.handle.bg.color:#0c1d27
+window.active.handle.bg.colorTo:#0c1d27
+window.active.grip.bg: parentrelative
+window.active.grip.bg.color: #6699FF
+window.active.grip.bg.colorTo:#3366CC
+
+window.inactive.handle.bg: flat solid
+window.inactive.handle.bg.color: #0c1d27
+window.inactive.handle.bg.colorTo: #0c1d27
+window.inactive.grip.bg: parentrelative
+window.inactive.grip.bg.color: #0c1d27
+window.inactive.grip.bg.colorTo: #0c1d27
+
+!! window buttons
+window.active.button.unpressed.bg: parentrelative
+window.active.button.unpressed.bg.color:#6699FF
+window.active.button.unpressed.bg.colorTo:#3366CC
+window.active.button.*.image.color: #0090B4
+window.active.button.hover.bg: flat border
+window.active.button.hover.bg.color: #102732
+window.active.button.hover.bg.border.color: #102732
+window.active.button.pressed.bg: flat border
+window.active.button.pressed.bg.color: #09161c
+window.active.button.pressed.bg.border.color: #09161c
+window.inactive.button.*.bg: parentrelative
+window.inactive.button.*.image.color:#FF5764
+
+!! misc settings
+border.color: #0c1d27
+border.width: 3
+padding.width: 2
+window.handle.width: 0
+window.client.padding.width: 0
+menu.overlap: 2
+
+window.active.label.text.font:verdana:pixelsize=10:bold:shadow=y:shadowoffset=1:shadowtint=200
+!window.inactive.label.text.font:verdana:pixelsize=10:bold:shadow=n
+!menu.items.font:verdana:pixelsize=10
+!menu.title.text.font:verdana:pixelsize=10:bold:shadow=y:shadowoffset=1:shadowtint=200

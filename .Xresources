@@ -1,0 +1,26 @@
+URxvt.font: xft:Monospace:size=10
+URxvt.scrollBar: false
+
+*colorUl:       	   #1378ab
+
+*background:           #0c1d27
+*foreground:           #FF5764
+*cursorColor:          #FF5764
+*colorBD:              #CCEEFF
+
+*color0:               #335566
+*color8:               #337799
+*color1:               #66AACC
+*color9:               #99DDFF
+*color2:               #0099CC
+*color10:              #00CCFF
+*color3:               #3366CC
+*color11:              #6699FF
+*color4:               #006699
+*color12:              #0099CC
+*color5:               #0066FF
+*color13:              #0099FF
+*color6:               #669999
+*color14:              #66CCCC
+*color7:               #99CCCC
+*color15:              #FF5764
